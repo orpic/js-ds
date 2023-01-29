@@ -19,4 +19,4 @@ function largestSum(array, num) {
   return max;
 }
 
-console.log(largestSum([1, 2, 3, 4, 3, 5, 4, 6, 7, 8], 0));
+console.log(largestSum([1, 2, 3, 4, 3, 5, 4, 6, 7, 8], 2));
